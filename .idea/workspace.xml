@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23c8c0f2-4c29-4ae9-a5a2-973f14fdb7b4" name="Changes" comment="Criando modelo de desafio">
+    <list default="true" id="23c8c0f2-4c29-4ae9-a5a2-973f14fdb7b4" name="Changes" comment="Criando modelo de desafio de adivinhar o numero">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/desafios/Adivinhe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/desafios/Adivinhe.java" afterDir="false" />
     </list>
@@ -154,7 +156,9 @@
       <workItem from="1685541909683" duration="1269000" />
       <workItem from="1685551849261" duration="8582000" />
       <workItem from="1685625213663" duration="11000" />
-      <workItem from="1685627835020" duration="24430000" />
+      <workItem from="1685627835020" duration="25514000" />
+      <workItem from="1685732569657" duration="2061000" />
+      <workItem from="1685881819006" duration="1558000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1685468058398</created>
@@ -184,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685726205616</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Criando modelo de desafio de adivinhar o numero">
+      <created>1685731597716</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685731597716</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +217,11 @@
     <MESSAGE value="Adicionando o README.md" />
     <MESSAGE value="Criando modelo de formater" />
     <MESSAGE value="Criando modelo de desafio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criando modelo de desafio" />
+    <MESSAGE value="Criando modelo de desafio de adivinhar o numero" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando modelo de desafio de adivinhar o numero" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
